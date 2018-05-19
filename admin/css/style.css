@@ -1,0 +1,32 @@
+/**
+ * CSS for our back-end admin pages.
+ */
+
+/*************************************
+ * Cards Listing Page
+ *************************************/
+/* The carddeck images in the Cards table should be no larger than this. */
+.post-type-fw_carddeck .fw-carddeck-featured-thumbnail {
+    max-width: 75px;
+    height: auto;
+}
+
+/*************************************
+ * Card Editing Page
+ *************************************/
+/* The carddeck placement map should be no larger than this. */
+.post-type-fw_carddeck .fw-carddeck-placement-map {
+    margin-top: 2em;
+    max-width: 100%;
+    height: auto;
+}
+
+/*************************************
+ * Taxonomy Page(s)
+ *************************************/
+/* Hide the 'Parent' form field. We don't want our taxonomies to
+   have sub-taxonomies. */
+.post-type-fw_carddeck .form-field.term-parent-wrap {
+    display: none;
+}
+
