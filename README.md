@@ -2,7 +2,7 @@
 
 This hand-coded plugin creates, what we call, a 'card deck' that display photos of various sizes. It's useful for displaying a portfolio of screenshots of client websites. As the user scrolls the card deck into view, each of the photos will increase it's opacity to its fullest, giving each photo its due focus to the user. It's a neat effect.
 
-This plugin is currently used on the home page of the [freshwebstudio.com](https://freshwebstudio.com) website, if you care to see it in action.
+This plugin is currently used on the home page of the [freshwebstudio.com](https://freshwebstudio.com) website, if you care to see it in action. 
 
 # Plugin Ownership
 
@@ -23,9 +23,12 @@ Read this section carefully before modifying the plugin code. Here's an outline:
         - BEM Naming Convention
     And That's It!
 
+
 ## 1. Git Version Control System
 
-[Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. The development of this plugin uses Git for this purpose. More specifically, we use [Beanstalk](https://beanstalkapp.com) as our public Git repository.
+[Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. The development of this plugin uses Git for this purpose. More specifically, we use [Beanstalk](https://beanstalkapp.com) as our private Git repository.
+
+If you find this theme on the GitHub.com repository, then the code is provided only as a public coding example for others to examine. The original source is still actively maintained in our private Beanstalk repository.
 
 We will show you a couple of common ways to start using Git, with [Beanstalk as an example repository(https://support.beanstalkapp.com/article/848-getting-started-with-git-creating-your-repository).
 
