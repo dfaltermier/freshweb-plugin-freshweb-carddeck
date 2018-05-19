@@ -2,7 +2,16 @@
 
 This hand-coded plugin creates, what we call, a 'card deck' that display photos of various sizes. It's useful for displaying a portfolio of screenshots of client websites. As the user scrolls the card deck into view, each of the photos will increase it's opacity to its fullest, giving each photo its due focus to the user. It's a neat effect.
 
-This plugin is currently used on the home page of the [freshwebstudio.com](https://freshwebstudio.com) website, if you care to see it in action. 
+This plugin is currently used on the home page of the [freshwebstudio.com](https://freshwebstudio.com) website, if you care to see it in action.
+
+Example screenshot:
+![freshwebstudio-card-deck](https://user-images.githubusercontent.com/3323104/40271073-726694f2-5b55-11e8-8144-8f27f634eb1a.png)
+
+Plugin post type:
+![freshwebstudio-card-deck-table](https://user-images.githubusercontent.com/3323104/40271088-976fd63c-5b55-11e8-93d5-8973df1eb581.png)
+
+Edit plugin:
+![freshwebstudio-card-deck-edit](https://user-images.githubusercontent.com/3323104/40271094-af0920e6-5b55-11e8-99f7-f63e360dce92.png)
 
 # Plugin Ownership
 
